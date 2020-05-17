@@ -1,0 +1,17 @@
+https://www.kaggle.com/c/ml-fmi-23-2020/overview
+https://www.kaggle.com/mihaidanielsurcea/concursml/edit
+https://arxiv.org/pdf/1703.04770.pdf
+https://www.oreilly.com/library/view/elegant-scipy/9781491922927/ch04.html
+https://stackoverflow.com/questions/24382832/audio-spectrum-extraction-from-audio-file-by-python
+https://github.com/tyiannak/pyAudioAnalysis/tree/master/pyAudioAnalysis
+https://www.hindawi.com/journals/sp/2019/7213717/
+https://timsainburg.com/python-mel-compression-inversion.html
+https://www.kdnuggets.com/2020/02/audio-data-analysis-deep-learning-python-part-1.html
+https://librosa.github.io/librosa/generated/librosa.feature.melspectrogram.html
+https://towardsdatascience.com/getting-to-know-the-mel-spectrogram-31bca3e2d9d0
+https://github.com/mtobeiyf/audio-classification/blob/master/feat_extract.py#L19
+https://medium.com/x8-the-ai-community/audio-classification-using-cnn-coding-example-f9cbd272269e
+
+
+google it: get audio histogram with fft python
+

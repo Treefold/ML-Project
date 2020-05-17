@@ -1,0 +1,6 @@
+ARN
+fast fourier transform audio (FFT)
+
+FFT + Linear classifier
+spectrogram + CNN
+raw + RNN
