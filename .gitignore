@@ -1,2 +1,5 @@
 
 *.wav
+ml-fmi-23-2020/test/
+ml-fmi-23-2020/train/
+ml-fmi-23-2020/validation/
