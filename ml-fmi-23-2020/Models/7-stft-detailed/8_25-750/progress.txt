@@ -1,0 +1,90 @@
+Train on 8000 samples, validate on 1000 samples
+Epoch 1/1
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.6913 - accuracy: 0.5219 - mae: 0.4976 - mse: 0.2490 - val_loss: 0.6838 - val_accuracy: 0.5740 - val_mae: 0.4939 - val_mse: 0.2453
+Train on 8000 samples, validate on 1000 samples
+Epoch 2/2
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.6728 - accuracy: 0.5846 - mae: 0.4804 - mse: 0.2401 - val_loss: 0.6536 - val_accuracy: 0.6190 - val_mae: 0.4676 - val_mse: 0.2310
+Train on 8000 samples, validate on 1000 samples
+Epoch 3/3
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.6448 - accuracy: 0.6273 - mae: 0.4556 - mse: 0.2268 - val_loss: 0.6302 - val_accuracy: 0.6360 - val_mae: 0.4403 - val_mse: 0.2206
+Train on 8000 samples, validate on 1000 samples
+Epoch 4/4
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.6059 - accuracy: 0.6715 - mae: 0.4214 - mse: 0.2092 - val_loss: 0.5972 - val_accuracy: 0.6980 - val_mae: 0.3894 - val_mse: 0.2050
+Train on 8000 samples, validate on 1000 samples
+Epoch 5/5
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.5570 - accuracy: 0.7147 - mae: 0.3828 - mse: 0.1887 - val_loss: 0.5689 - val_accuracy: 0.7080 - val_mae: 0.3604 - val_mse: 0.1935
+Train on 8000 samples, validate on 1000 samples
+Epoch 6/6
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.5311 - accuracy: 0.7309 - mae: 0.3583 - mse: 0.1780 - val_loss: 0.5521 - val_accuracy: 0.7240 - val_mae: 0.3551 - val_mse: 0.1862
+Train on 8000 samples, validate on 1000 samples
+Epoch 7/7
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.5248 - accuracy: 0.7324 - mae: 0.3517 - mse: 0.1764 - val_loss: 0.5349 - val_accuracy: 0.7440 - val_mae: 0.3516 - val_mse: 0.1791
+Train on 8000 samples, validate on 1000 samples
+Epoch 8/8
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.5007 - accuracy: 0.7502 - mae: 0.3355 - mse: 0.1667 - val_loss: 0.5342 - val_accuracy: 0.7410 - val_mae: 0.3428 - val_mse: 0.1779
+Train on 8000 samples, validate on 1000 samples
+Epoch 9/9
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.4877 - accuracy: 0.7609 - mae: 0.3223 - mse: 0.1611 - val_loss: 0.5472 - val_accuracy: 0.7270 - val_mae: 0.3570 - val_mse: 0.1837
+Train on 8000 samples, validate on 1000 samples
+Epoch 10/10
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.4798 - accuracy: 0.7624 - mae: 0.3181 - mse: 0.1590 - val_loss: 0.5463 - val_accuracy: 0.7290 - val_mae: 0.3352 - val_mse: 0.1829
+Train on 8000 samples, validate on 1000 samples
+Epoch 11/11
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.4620 - accuracy: 0.7764 - mae: 0.3038 - mse: 0.1515 - val_loss: 0.5504 - val_accuracy: 0.7310 - val_mae: 0.3370 - val_mse: 0.1842
+Train on 8000 samples, validate on 1000 samples
+Epoch 12/12
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.4486 - accuracy: 0.7844 - mae: 0.2946 - mse: 0.1469 - val_loss: 0.5539 - val_accuracy: 0.7430 - val_mae: 0.3115 - val_mse: 0.1805
+Train on 8000 samples, validate on 1000 samples
+Epoch 13/13
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.4332 - accuracy: 0.7947 - mae: 0.2836 - mse: 0.1408 - val_loss: 0.5588 - val_accuracy: 0.7390 - val_mae: 0.3126 - val_mse: 0.1815
+Train on 8000 samples, validate on 1000 samples
+Epoch 14/14
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.4192 - accuracy: 0.8049 - mae: 0.2718 - mse: 0.1357 - val_loss: 0.5477 - val_accuracy: 0.7430 - val_mae: 0.3207 - val_mse: 0.1794
+Train on 8000 samples, validate on 1000 samples
+Epoch 15/15
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.4062 - accuracy: 0.8175 - mae: 0.2641 - mse: 0.1306 - val_loss: 0.5566 - val_accuracy: 0.7400 - val_mae: 0.3160 - val_mse: 0.1819
+Train on 8000 samples, validate on 1000 samples
+Epoch 16/16
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.3832 - accuracy: 0.8271 - mae: 0.2474 - mse: 0.1219 - val_loss: 0.5461 - val_accuracy: 0.7520 - val_mae: 0.3050 - val_mse: 0.1771
+Train on 8000 samples, validate on 1000 samples
+Epoch 17/17
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.3692 - accuracy: 0.8339 - mae: 0.2376 - mse: 0.1170 - val_loss: 0.5781 - val_accuracy: 0.7430 - val_mae: 0.3039 - val_mse: 0.1821
+Train on 8000 samples, validate on 1000 samples
+Epoch 18/18
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.3469 - accuracy: 0.8456 - mae: 0.2214 - mse: 0.1089 - val_loss: 0.5970 - val_accuracy: 0.7280 - val_mae: 0.3190 - val_mse: 0.1914
+Train on 8000 samples, validate on 1000 samples
+Epoch 19/19
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.3276 - accuracy: 0.8545 - mae: 0.2084 - mse: 0.1028 - val_loss: 0.6618 - val_accuracy: 0.7320 - val_mae: 0.3077 - val_mse: 0.2008
+Train on 8000 samples, validate on 1000 samples
+Epoch 20/20
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.3138 - accuracy: 0.8655 - mae: 0.1995 - mse: 0.0971 - val_loss: 0.6580 - val_accuracy: 0.7290 - val_mae: 0.2963 - val_mse: 0.1937
+Train on 8000 samples, validate on 1000 samples
+Epoch 21/21
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.2951 - accuracy: 0.8744 - mae: 0.1852 - mse: 0.0911 - val_loss: 0.6383 - val_accuracy: 0.7200 - val_mae: 0.3019 - val_mse: 0.1923
+Train on 8000 samples, validate on 1000 samples
+Epoch 22/22
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.2698 - accuracy: 0.8851 - mae: 0.1713 - mse: 0.0822 - val_loss: 0.7262 - val_accuracy: 0.7340 - val_mae: 0.2866 - val_mse: 0.1987
+Train on 8000 samples, validate on 1000 samples
+Epoch 23/23
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.2481 - accuracy: 0.8965 - mae: 0.1572 - mse: 0.0756 - val_loss: 0.6940 - val_accuracy: 0.7520 - val_mae: 0.2782 - val_mse: 0.1893
+Train on 8000 samples, validate on 1000 samples
+Epoch 24/24
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.2318 - accuracy: 0.9036 - mae: 0.1473 - mse: 0.0699 - val_loss: 0.7376 - val_accuracy: 0.7460 - val_mae: 0.2796 - val_mse: 0.1959
+Train on 8000 samples, validate on 1000 samples
+Epoch 25/25
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.2120 - accuracy: 0.9153 - mae: 0.1316 - mse: 0.0636 - val_loss: 0.7929 - val_accuracy: 0.7500 - val_mae: 0.2714 - val_mse: 0.1952
+Train on 8000 samples, validate on 1000 samples
+Epoch 26/26
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.1896 - accuracy: 0.9251 - mae: 0.1195 - mse: 0.0560 - val_loss: 0.9210 - val_accuracy: 0.7240 - val_mae: 0.2929 - val_mse: 0.2215
+Train on 8000 samples, validate on 1000 samples
+Epoch 27/27
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.1786 - accuracy: 0.9286 - mae: 0.1118 - mse: 0.0532 - val_loss: 0.9828 - val_accuracy: 0.7200 - val_mae: 0.2897 - val_mse: 0.2242
+Train on 8000 samples, validate on 1000 samples
+Epoch 28/28
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.1653 - accuracy: 0.9348 - mae: 0.1020 - mse: 0.0483 - val_loss: 1.0156 - val_accuracy: 0.7360 - val_mae: 0.2892 - val_mse: 0.2229
+Train on 8000 samples, validate on 1000 samples
+Epoch 29/29
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.1417 - accuracy: 0.9471 - mae: 0.0884 - mse: 0.0407 - val_loss: 1.0535 - val_accuracy: 0.7360 - val_mae: 0.2819 - val_mse: 0.2209
+Train on 8000 samples, validate on 1000 samples
+Epoch 30/30
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.1359 - accuracy: 0.9495 - mae: 0.0833 - mse: 0.0391 - val_loss: 1.0876 - val_accuracy: 0.7270 - val_mae: 0.2820 - val_mse: 0.2249

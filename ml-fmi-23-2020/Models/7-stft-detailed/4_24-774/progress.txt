@@ -1,0 +1,75 @@
+Train on 8000 samples, validate on 1000 samples
+Epoch 6/6
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.5296 - accuracy: 0.7308 - val_loss: 0.5438 - val_accuracy: 0.7310
+Train on 8000 samples, validate on 1000 samples
+Epoch 7/7
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.5171 - accuracy: 0.7401 - val_loss: 0.5240 - val_accuracy: 0.7390
+Train on 8000 samples, validate on 1000 samples
+Epoch 8/8
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.4984 - accuracy: 0.7552 - val_loss: 0.5350 - val_accuracy: 0.7470
+Train on 8000 samples, validate on 1000 samples
+Epoch 9/9
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.4870 - accuracy: 0.7571 - val_loss: 0.5233 - val_accuracy: 0.7660
+Train on 8000 samples, validate on 1000 samples
+Epoch 10/10
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.4808 - accuracy: 0.7590 - val_loss: 0.5139 - val_accuracy: 0.7510
+Train on 8000 samples, validate on 1000 samples
+Epoch 11/11
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.4671 - accuracy: 0.7740 - val_loss: 0.5212 - val_accuracy: 0.7500
+Train on 8000 samples, validate on 1000 samples
+Epoch 12/12
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.4460 - accuracy: 0.7851 - val_loss: 0.5199 - val_accuracy: 0.7510
+Train on 8000 samples, validate on 1000 samples
+Epoch 13/13
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.4331 - accuracy: 0.7951 - val_loss: 0.5220 - val_accuracy: 0.7400
+Train on 8000 samples, validate on 1000 samples
+Epoch 14/14
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.4204 - accuracy: 0.8040 - val_loss: 0.5325 - val_accuracy: 0.7580
+Train on 8000 samples, validate on 1000 samples
+Epoch 15/15
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.4019 - accuracy: 0.8134 - val_loss: 0.5329 - val_accuracy: 0.7550
+Train on 8000 samples, validate on 1000 samples
+Epoch 16/16
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.3862 - accuracy: 0.8236 - val_loss: 0.5561 - val_accuracy: 0.7580
+Train on 8000 samples, validate on 1000 samples
+Epoch 17/17
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.3733 - accuracy: 0.8311 - val_loss: 0.5594 - val_accuracy: 0.7480
+Train on 8000 samples, validate on 1000 samples
+Epoch 18/18
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.3560 - accuracy: 0.8394 - val_loss: 0.5638 - val_accuracy: 0.7580
+Train on 8000 samples, validate on 1000 samples
+Epoch 19/19
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.3404 - accuracy: 0.8474 - val_loss: 0.5801 - val_accuracy: 0.7590
+Train on 8000 samples, validate on 1000 samples
+Epoch 20/20
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.3174 - accuracy: 0.8625 - val_loss: 0.6258 - val_accuracy: 0.7570
+Train on 8000 samples, validate on 1000 samples
+Epoch 21/21
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.2950 - accuracy: 0.8691 - val_loss: 0.6188 - val_accuracy: 0.7610
+Train on 8000 samples, validate on 1000 samples
+Epoch 22/22
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.2819 - accuracy: 0.8781 - val_loss: 0.6429 - val_accuracy: 0.7640
+Train on 8000 samples, validate on 1000 samples
+Epoch 23/23
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.2560 - accuracy: 0.8898 - val_loss: 0.6476 - val_accuracy: 0.7490
+Train on 8000 samples, validate on 1000 samples
+Epoch 24/24
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.2416 - accuracy: 0.8955 - val_loss: 0.7372 - val_accuracy: 0.7370
+Train on 8000 samples, validate on 1000 samples
+Epoch 25/25
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.2206 - accuracy: 0.9059 - val_loss: 0.7193 - val_accuracy: 0.7740
+Train on 8000 samples, validate on 1000 samples
+Epoch 26/26
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.2085 - accuracy: 0.9151 - val_loss: 0.8180 - val_accuracy: 0.7240
+Train on 8000 samples, validate on 1000 samples
+Epoch 27/27
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.1850 - accuracy: 0.9240 - val_loss: 0.7449 - val_accuracy: 0.7430
+Train on 8000 samples, validate on 1000 samples
+Epoch 28/28
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.1704 - accuracy: 0.9316 - val_loss: 0.8746 - val_accuracy: 0.7640
+Train on 8000 samples, validate on 1000 samples
+Epoch 29/29
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.1487 - accuracy: 0.9411 - val_loss: 0.8974 - val_accuracy: 0.7550
+Train on 8000 samples, validate on 1000 samples
+Epoch 30/30
+8000/8000 [==============================] - 9s 1ms/step - loss: 0.1261 - accuracy: 0.9507 - val_loss: 0.9018 - val_accuracy: 0.7500
